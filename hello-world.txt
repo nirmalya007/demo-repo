@@ -2,4 +2,8 @@ Hello from git
 
 Today is my first day
 
+<<<<<<< HEAD
 Nor I'm learning
+=======
+Now I'm learning
+>>>>>>> 5a29e3653b081164fd959f0cdcb9e09f60b1df77
